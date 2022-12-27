@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Kant Tiwari</h1>
 <h3 align="center">I am very passionate to create Interactive websites.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/abhay3366/abhay3366/blob/main/6a.gif"
+<img align="right" alt="coding" width="400" src="https://github.com/abhay3366/abhay3366/blob/main/6a.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay3366&label=Profile%20views&color=0e75b6&style=flat" alt="abhay3366" /> </p>
 
