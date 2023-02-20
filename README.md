@@ -5,17 +5,20 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/abhay3366/abhay3366/blob/main/6a.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay3366&label=Profile%20views&color=0e75b6&style=flat" alt="abhay3366" /> </p>
-
-- 🔭 I’m currently working on [Urban Clone Website](https://github.com/abhay3366/-hysterical-current-2318)
-
-- 🌱 I’m currently learning **MERN Stack Devoloper**
-
-- 👯 I’m looking to collaborate on [MyGlamm](https://github.com/abhay3366/https-github.com-guptaneha0111-bewildered-head-3884)
+- 🔭  I’m currently learning **MERN Stack Devoloper**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
 
 - 📫 How to reach me **tabhaykant2@gmail.com**
+
+- 🌱 Know about my experiences: <a href="https://drive.google.com/file/d/1lF8IQFU6DwUL6srowdYhn4tf30lr-hZz/view?usp=share_link" download>Resume</a>
+
+- ![contract](https://user-images.githubusercontent.com/68136960/220160907-ddcc10bb-5302-4059-80fb-292f7afdc6c8.png)
+ I’m looking to collaborate on [MyGlamm](https://github.com/abhay3366/https-github.com-guptaneha0111-bewildered-head-3884) 
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
