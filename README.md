@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tabhaykant2@gmail.com**
 
-<p align="left">- <img src="https://user-images.githubusercontent.com/68136960/220162787-d3c67a8f-80f5-4ed9-97f6-388bf567b803.png"  width="20"/> <a herf="https://github.com/abhay3366/abhay3366.github.io">abhay3366.github.io</a> </p>
+<p align="left">- <img src="https://user-images.githubusercontent.com/68136960/220162787-d3c67a8f-80f5-4ed9-97f6-388bf567b803.png"  width="20"/></p>**https://github.com/abhay3366/abhay3366.github.io** 
 
 <p align="left">- <img src="https://user-images.githubusercontent.com/68136960/220164577-6d03e13f-3e30-47df-9f04-0ce6917e5e2c.png"  width="20"/><a herf="https://drive.google.com/file/d/1lF8IQFU6DwUL6srowdYhn4tf30lr-hZz/view?usp=share_link" download>Resume</a> </p>
 
