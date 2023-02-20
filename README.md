@@ -7,15 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay3366&label=Profile%20views&color=0e75b6&style=flat" alt="abhay3366" /> </p>
 
-- 🔭 I’m currently working on [Urban Clone Website](https://github.com/abhay3366/-hysterical-current-2318)
+<!-- - 🔭 I’m currently working on [Urban Clone Website](https://github.com/abhay3366/-hysterical-current-2318) -->
 
 - 🌱 I’m currently learning **MERN Stack Devoloper**
-
-
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
 
 - 📫 How to reach me **tabhaykant2@gmail.com**
+
+-<p align="left"> <img src="https://user-images.githubusercontent.com/68136960/220162787-d3c67a8f-80f5-4ed9-97f6-388bf567b803.png"  width="20"/> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
