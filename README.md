@@ -14,7 +14,7 @@
 - 💼 **Software Developer | PHP & Laravel Expert**
 - 🔧 **Currently working with Laravel, PHP, MySQL, and API development**
 - 🌱 **Exploring advanced Laravel concepts and front-end frameworks**
-- 🛠 **Skilled in HTML, CSS, JavaScript, jQuery, React, SQL, and REST APIs**
+- 🛠 **Skilled in HTML, CSS, JavaScript,PHP,Laravel jQuery, React, SQL, and REST APIs**
 - 📝 **Passionate about writing clean, maintainable, and scalable code**
 - 💬 **Ask me about PHP, Laravel, JavaScript, SQL, and APIs**
 - 📬 **Reach me at:** [tabhaykant2@gmail.com](mailto:tabhaykant2@gmail.com)
@@ -65,15 +65,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay3366&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay3366&layout=compact&langs_count=8&theme=react" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay3366&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay3366&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay3366" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhay3366&theme=react" alt="GitHub Streak Stats" />
 </p>
 
 ---
