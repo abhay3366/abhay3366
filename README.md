@@ -1,76 +1,81 @@
-
 <h1 align="center">Hi 👋, I'm Abhay Kant Tiwari</h1>
-<h2 align="center">I am very passionate to create Interactive websites.</h2>
+<h2 align="center">PHP & Laravel Developer | Frontend Enthusiast</h2>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My name is Abhay Kant Tiwari; I am a Front-End%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=PHP%20%7C%20Laravel%20%7C%20MySQL%20%7C%20React%20%7C%20API%20Development;Passionate%20about%20Clean%20Code%20and%20Scalable%20Solutions!&font=Fira%20Code&center=true&width=600&height=50&color=37bcf7&vCenter=true&size=22&pause=1000">
+  </a>
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-- 🌱 I’m currently learning **Front-End Devoloper**
+## 🛠️ About Me
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,Redux**
+- 💼 **Software Developer | PHP & Laravel Expert**
+- 🔧 **Currently working with Laravel, PHP, MySQL, and API development**
+- 🌱 **Exploring advanced Laravel concepts and front-end frameworks**
+- 🛠 **Skilled in HTML, CSS, JavaScript, jQuery, React, SQL, and REST APIs**
+- 📝 **Passionate about writing clean, maintainable, and scalable code**
+- 💬 **Ask me about PHP, Laravel, JavaScript, SQL, and APIs**
+- 📬 **Reach me at:** [tabhaykant2@gmail.com](mailto:tabhaykant2@gmail.com)
+- 🌐 **Portfolio:** [Visit Here](https://abhay3366.github.io/)
+- 📄 **Resume:** [Download](https://drive.google.com/file/d/1ydsMJ5_Hv13bOdlamRjg6VKlU2aAa8R2/view?usp=share_link)
 
-- 📫 How to reach me **tabhaykant2@gmail.com**
-- 🪪 Check My protfolio :- **https://abhay3366.github.io/**
-- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1ydsMJ5_Hv13bOdlamRjg6VKlU2aAa8R2/view?usp=share_link" download alt="resume">Resume</a>
-<br/>
-<br/>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with Me
+
 <p align="left">
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhaytiwari3366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/abhaytiwari3366/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-## 🚀 Languages and Tools:
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<!-- <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/> -->
-<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-</div>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-  <!-- <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/> -->
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<!-- <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman"> -->
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <br/>
- </div>
+---
+
+## 🚀 Tech Stack
+
+### 🔹 Backend Development:
+<div>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Development-0088CC?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<hr />
+### 🎨 Frontend Development:
+<div>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
-<h2 align="center">📊 My Github Status</h2>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay3366&show_icons=true&locale=en&layout=compact" alt="abhay3366" /></p>
-<!--       <br/> -->
-<!--       <br/> -->
+### 🛠 Tools & Platforms:
+<div>
+  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay3366&show_icons=true&locale=en" alt="abhay3366" /></p>
-<!--       <br/> -->
-<!--       <br/> -->
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay3366&" alt="abhay3366" /></p>                                                             
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay3366&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay3366&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay3366" alt="GitHub Streak Stats" />
+</p>
 
-<br/>
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />  
