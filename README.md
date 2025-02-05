@@ -14,14 +14,12 @@
 - 💼 **Software Developer | PHP & Laravel Expert**
 - 🔧 **Currently working with Laravel, PHP, MySQL, and API development**
 - 🌱 **Exploring advanced Laravel concepts and front-end frameworks**
-- 🛠 **Skilled in HTML, CSS, JavaScript,PHP,Laravel jQuery, React, SQL, and REST APIs**
-- 📝 **Passionate about writing clean, maintainable, and scalable code**
+- 🛠 **Skilled in HTML, CSS, JavaScript, PHP, Laravel, jQuery, React, SQL, and REST APIs**
+- ✨ **Passionate about writing clean, maintainable, and scalable code**
 - 💬 **Ask me about PHP, Laravel, JavaScript, SQL, and APIs**
 - 📬 **Reach me at:** [tabhaykant2@gmail.com](mailto:tabhaykant2@gmail.com)
 - 🌐 **Portfolio:** [Visit Here](https://abhay3366.github.io/)
 - 📄 **Resume:** [Download](https://drive.google.com/file/d/1ydsMJ5_Hv13bOdlamRjg6VKlU2aAa8R2/view?usp=share_link)
-
----
 
 ## 🔗 Connect with Me
 
