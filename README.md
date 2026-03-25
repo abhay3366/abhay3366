@@ -20,30 +20,36 @@
 
 </div>
 
+---
+
+## 🧑‍💻 About Me
+
+```http
+GET /api/v1/developer/abhay HTTP/1.1
+Host: github.com
+Accept: application/json
+```
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Status: Available-For-Hire
+
 {
-  "name"           : "abhay-kant-tiwari",
-  "version"        : "2.0.0",
-  "description"    : "Full Stack Web Developer 🧑‍💻",
-  "main"           : "portfolio.js",
-  "author"         : "Abhay Kant Tiwari <abhaykanttiwari@gmail.com>",
-  "location"       : "Noida, UP — India 🇮🇳",
-  "license"        : "OPEN-TO-WORK",
-  "dependencies"   : {
-    "react"        : "latest",
-    "node"         : "latest",
-    "express"      : "latest",
-    "mongodb"      : "latest"
-  },
-  "devDependencies": {
-    "typescript"   : "learning 📖",
-    "nextjs"       : "learning 📖"
-  },
-  "scripts": {
-    "hire"         : "email abhaykanttiwari9595@gmail.com",
-    "connect"      : "open linkedin.com/in/abhaytiwari3366",
-    "portfolio"    : "open abhay3366.github.io"
-  }
+  "name"        :  "Abhay Kant Tiwari",
+  "role"        :  "Full Stack Web Developer",
+  "stack"       :  "MERN — MongoDB · Express · React · Node.js",
+  "location"    :  "Robertsganj, Sonebhadra, Uttar Pradesh 🇮🇳",
+  "email"       :  "tabhaykant2@gmail.com",
+  "phone"       :  "+91 6393216862",
+  "linkedin"    :  "linkedin.com/in/abhaytiwari3366",
+  "portfolio"   :  "abhay3366.github.io",
+  "openToWork"  :  true,
+  "interests"   :  ["Web Performance", "REST APIs", "UI/UX Engineering"],
+  "learning"    :  ["TypeScript", "Next.js", "System Design"],
+  "currently"   :  "Building full-stack apps & sharpening DSA skills"
 }
+```
 
 - 🛠️ I build **end-to-end web applications** — from database design to deployed UI
 - 🌐 Comfortable working across the **full MERN stack**
