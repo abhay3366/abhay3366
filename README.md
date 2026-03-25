@@ -33,7 +33,7 @@ Accept: application/json
 ```http
 HTTP/1.1 200 OK
 Content-Type: application/json
-X-Status: Available-For-Hire
+X-Status: Available-For-Work
 
 {
   "name"        :  "Abhay Kant Tiwari",
@@ -46,7 +46,7 @@ X-Status: Available-For-Hire
   "portfolio"   :  "abhay3366.github.io",
   "openToWork"  :  true,
   "interests"   :  ["Web Performance", "REST APIs", "UI/UX Engineering"],
-  "learning"    :  ["TypeScript", "Next.js", "System Design"],
+  "learning"    :  ["React.js","TypeScript", "Next.js","Node.js" "System Design"],
   "currently"   :  "Building full-stack apps & sharpening DSA skills"
 }
 ```
