@@ -39,8 +39,8 @@ X-Status: Available-For-Hire
   "name"        :  "Abhay Kant Tiwari",
   "role"        :  "Full Stack Web Developer",
   "stack"       :  "MERN — MongoDB · Express · React · Node.js",
-  "location"    :  "Robertsganj, Sonebhadra, Uttar Pradesh 🇮🇳",
-  "email"       :  "tabhaykant2@gmail.com",
+  "location"    :  "Noida, Uttar Pradesh 🇮🇳",
+  "email"       :  "abhaykanttiwari9595@gmail.com",
   "phone"       :  "+91 6393216862",
   "linkedin"    :  "linkedin.com/in/abhaytiwari3366",
   "portfolio"   :  "abhay3366.github.io",
@@ -168,9 +168,9 @@ X-Status: Available-For-Hire
 |---|---|
 | 🌐 Portfolio | [abhay3366.github.io](https://abhay3366.github.io/) |
 | 💼 LinkedIn | [linkedin.com/in/abhaytiwari3366](https://www.linkedin.com/in/abhaytiwari3366/) |
-| 📧 Email | tabhaykant2@gmail.com |
+| 📧 Email | abhaykanttiwari9595@gmail.com |
 | 📞 Phone | +91 6393216862 |
-| 📍 Location | Robertsganj, Sonebhadra, UP — India |
+| 📍 Location | Noida, UP — India |
 
 ---
 
